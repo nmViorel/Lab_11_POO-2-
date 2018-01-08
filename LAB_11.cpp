@@ -9,7 +9,7 @@ using namespace std;
 // Comentariu inutil ca sa vad daca merge.
 
 template<typename T>
-
+// COmentariu din branch.
 class Stack 
 {
 
