@@ -6,6 +6,8 @@
 
 using namespace std;
 
+// Comentariu inutil ca sa vad daca merge.
+
 template<typename T>
 
 class Stack 
