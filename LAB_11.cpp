@@ -52,5 +52,9 @@ int main()
 			cout << st.top() << "\n";
 			st.pop();
 		}
+	
+	
 	return 0;
+	cout << "Hai afara la tigaraaaa!";
+	// Comentariu din new branch 2.
 }
